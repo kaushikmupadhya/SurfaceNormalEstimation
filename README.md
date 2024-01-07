@@ -1,5 +1,4 @@
-# Master's Thesis: Reliable Deep Surface Normal Estimation through Probabilistic Quantification of Aleatoric Uncertainty from Monocular 
-Images
+# Master's Thesis: Reliable Deep Surface Normal Estimation through Probabilistic Quantification of Aleatoric Uncertainty from Monocular Images
 This repository hosts the research and experimental work conducted for my Master's thesis, which builds upon "Estimating and Exploiting the Aleatoric Uncertainty in Surface Normal Estimation". It includes additional experiments, enhancements, and personal insights on the original CNN-based approach for surface normal estimation in the context of 3D scene understanding.
 
 ## Introduction
