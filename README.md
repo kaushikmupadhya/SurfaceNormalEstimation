@@ -11,5 +11,3 @@ My Master's thesis explores advanced methodologies in surface normal estimation 
 - To incorporate novel experimental strategies for improving uncertainty estimation.
 - To analyze the impact of these enhancements on prediction quality, especially in complex scene geometries.
 - Experimentation with  comparative novel loss functions
-
-
